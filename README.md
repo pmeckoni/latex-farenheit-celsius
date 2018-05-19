@@ -1,10 +1,13 @@
 # Farenheit-Celsius
 
 A Farenheit-Celsius coversion numberline made using LaTeX. 
-4 identical numberlines for low-waste printing.
+
+Can be used when a person conversant in Celsius encounters people familiar in Farenheit
+
+4 identical numberlines reduce waste in printing.
 
 Partial Screenshot:
 ![Farenheit-Celsius](./farenheit-celsius.png)
 
-Copyright 2018 Prashant Meckoni
+Copyright © 2018 Prashant Meckoni
 
